@@ -27,7 +27,7 @@ Custom GPT - under internal review
 
 # Contributions/Support
 
-This GitHub page is initially developed as a part of postdoctoral research project. 
+This GitHub page is initially developed as a part of postdoctoral research project. The contents are disseminated under the framework of MIT License
 
 Primary contact email : sreenath.sukumaran@taltech.ee
 
