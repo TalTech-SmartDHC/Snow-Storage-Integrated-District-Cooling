@@ -7,6 +7,8 @@ Combination of three soource of cold supply i.e snow storage, chilled water tank
 Technical design and operational strategies to minimise the cost of cooling
 Detailed performance analysis for climatic conditions and urban characteristics of Tallinn city
 
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/e11c3afb-5851-4997-a03e-6ffda04a2701" />
+
 # Use case
 
 Weather data
@@ -23,7 +25,7 @@ Explainer video on snow assisted district cooling system - https://videopress.co
 
 Literature database - in preparation
 
-Custom GPT - under internal review
+Poster Presentation - 
 
 # Contributions/Support
 
