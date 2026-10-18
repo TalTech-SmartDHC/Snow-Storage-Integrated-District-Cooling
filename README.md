@@ -24,11 +24,13 @@ The cooling demand was fully met by the proposed district cooling plant integrat
 
 # Useful Resources
 
-Explainer video on snow assisted district cooling system - https://videopress.com/v/0bdNsdhh
+Explainer video - https://doi.org/10.48726/d07j0-2gx44
 
-Literature database - in preparation
+AI powered ChatBook - https://notebook.google.com/notebook/91169f90-208d-4612-a926-a8fd3bc910e9
 
-Poster Presentation - 
+Poster Presentation - https://doi.org/10.48726/q3xkc-jh857
+
+Conference Presentation - https://doi.org/10.48726/f8mzv-k3947
 
 # Contributions/Support
 
@@ -41,3 +43,10 @@ Alumni: NA
 # Acknowledgement
 
 This work was supported by the Estonian Research Council grant (MOB3JD1230) within the project “Comprehensive Investigation of Cold Thermal Energy Storage Integrated District Cooling System”. It is co-funded by projects Tem-TA78 “Data-driven assessment of the potential and impact of energy saving flexibility technologies in buildings” and PRG2701 “Next-Generation District Heating: Enhancing Sustainability through Multi-Level Energy Cascades and Decentralised Renewable Energy Sources”. Disclaimer: The funding agency, affiliated organization and authors are not legally responsible for the information and views expressed in this page
+
+# License
+The MIT License
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+
