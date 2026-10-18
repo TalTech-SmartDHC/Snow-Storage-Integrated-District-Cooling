@@ -14,9 +14,9 @@ Detailed performance analysis for climatic conditions and urban characteristics 
 
 # Use case
 
-A hypothetical site with a potential for space cooling was identified for the study. The main time series data consists of weather, electricity prices and cooling demand. These are obtained from open-source database and uploaded. The technology-specific data are included within the python code. 
+A hypothetical site with a potential for space cooling was identified for the study. The main time series data consists of weather, electricity prices and cooling demand. These are obtained from open-source database and uploaded here. The technology-specific data are included within the python code. 
 
-The modelling and simulation are carried out at component level as well as system level. A thumb-rule based sizing methodology is applied for each cold supply unit. The underlying mathematical formulations and operational strategy are implemented in the simulation code. Jupyter Notebook environment was used to run the model and compare the system’s performance.
+The modelling and simulation are carried out at component level as well as system level. A thumb-rule based sizing methodology is applied for each cold supply unit. The underlying mathematical formulations and operational strategy are implemented in the main simulation loop. Jupyter Notebook environment was used to run the model and assess the system’s performance.
 
 The cooling demand was fully met by the proposed district cooling plant integrated with snow storage unit. The annual energy balance for the proposed system is depicted below.
 
