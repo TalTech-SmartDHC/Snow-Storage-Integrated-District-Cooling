@@ -14,11 +14,11 @@ Detailed performance analysis for climatic conditions and urban characteristics 
 
 # Use case
 
-A hypothetical site with a potential for space cooling was identified for the study. The main time series data consists of weather, electricity prices and cooling demand. These are obtained from open-source database and uploaded here. The technology-specific data are included within the python code. 
+Data collection: A hypothetical site with a potential for space cooling was identified for the study. The main time series data consists of weather, electricity prices and cooling demand. These are obtained from open-source database and uploaded here. The technology-specific data are included within the python code. 
 
-The modelling and simulation are carried out at component level as well as system level. A thumb-rule based sizing methodology is applied for each cold supply unit. The underlying mathematical formulations and operational strategy are implemented in the main simulation loop. Jupyter Notebook environment was used to run the model and assess the system’s performance.
+Analysis: The modelling and simulation are carried out at component level as well as system level. A thumb-rule based sizing methodology is applied for each cold supply unit. The underlying mathematical formulations and operational strategy are implemented in the main simulation loop. Jupyter Notebook environment was used to run the model and assess the system’s performance.
 
-The cooling demand was fully met by the proposed district cooling plant integrated with snow storage unit. The annual energy balance for the proposed system is depicted below.
+Main results: The cooling demand was fully met by the proposed district cooling plant integrated with snow storage unit. The annual energy balance for the proposed system is depicted below.
 
 <img width="1000" height="580" alt="image" src="https://github.com/user-attachments/assets/40a53da2-a343-4e5d-87b3-7a9d3d63e47b" />
 
@@ -42,7 +42,7 @@ Alumni: NA
 
 # Acknowledgement
 
-This work was supported by the Estonian Research Council grant (MOB3JD1230) within the project “Comprehensive Investigation of Cold Thermal Energy Storage Integrated District Cooling System”. It is co-funded by projects Tem-TA78 “Data-driven assessment of the potential and impact of energy saving flexibility technologies in buildings” and PRG2701 “Next-Generation District Heating: Enhancing Sustainability through Multi-Level Energy Cascades and Decentralised Renewable Energy Sources”. Disclaimer: The funding agency, affiliated organization and authors are not legally responsible for the information and views expressed in this page
+This work was supported by the Estonian Research Council grant (MOB3JD1230) within the project “Comprehensive Investigation of Cold Thermal Energy Storage Integrated District Cooling System”. It is co-funded by projects Tem-TA78 “Data-driven assessment of the potential and impact of energy saving flexibility technologies in buildings” and PRG2701 “Next-Generation District Heating: Enhancing Sustainability through Multi-Level Energy Cascades and Decentralised Renewable Energy Sources”. Disclaimer: The funding agency, affiliated organization and authors are not legally responsible for the information and findings expressed in this page
 
 # License
 The MIT License
