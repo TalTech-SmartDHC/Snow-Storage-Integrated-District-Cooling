@@ -2,13 +2,13 @@
 
 The advantages of winter climate are often overlooked. The cold thermal energy stored in winter snow can be exploited for cooling applications. The snow cooling facility in Sundsvall, Sweden and Oslo, Norway are the living examples. It shows the potential to address cooling demand sustainably by utilise snow mounds in urban areas. The highlights of this python package are the following. 
 
-Feasibility assessment of district cooling system integrated with snow storage
+Feasibility analysis of district cooling system integrated with snow storage
 
-Combination of three soource of cold supply i.e snow storage, chilled water tank, electric chiller
+Combination of three source of cold supply i.e snow storage, chilled water tank, electric chiller
 
-Technical design and operational strategies to minimise the cost of cooling
+Technical design and operational strategies to minimise the operational cost of chiller
 
-Detailed performance analysis for climatic conditions and urban characteristics of Tallinn city
+Energy balance analysis for climatic conditions and urban characteristics of Tallinn city
 
 <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/e11c3afb-5851-4997-a03e-6ffda04a2701" />
 
@@ -18,7 +18,7 @@ Data collection: A hypothetical site with a potential for space cooling was iden
 
 Analysis: The modelling and simulation are carried out at component level as well as system level. A thumb-rule based sizing methodology is applied for each cold supply unit. The underlying mathematical formulations and operational strategy are implemented in the main simulation loop. Jupyter Notebook environment was used to run the model and assess the system’s performance.
 
-Main results: The cooling demand was fully met by the proposed district cooling plant integrated with snow storage unit. The annual energy balance for the proposed system is depicted below.
+Main results: A sample of hourly variation of cold supply mix for the proposed system is depicted below.
 
 <img width="1000" height="580" alt="image" src="https://github.com/user-attachments/assets/40a53da2-a343-4e5d-87b3-7a9d3d63e47b" />
 
